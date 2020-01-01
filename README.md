@@ -12,7 +12,9 @@ Predicting GPA for incoming students based on SAT score, Total hours through fal
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
-    
+
+## Status
+Project is: _finished_.    
     
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
