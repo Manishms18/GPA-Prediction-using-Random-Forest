@@ -4,12 +4,7 @@ Predicting GPA for incoming students based on SAT score, Total hours through fal
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Demo](#demo)
 * [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Process](#process)
-* [Code Examples](#code-examples)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
