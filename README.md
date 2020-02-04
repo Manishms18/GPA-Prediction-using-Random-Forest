@@ -8,6 +8,7 @@ Predicting GPA for incoming students based on SAT score, Total hours through fal
 * [Status](#status)
 * [Contact](#contact)
 
+
 ## Status
 Project is: _finished_.    
   
